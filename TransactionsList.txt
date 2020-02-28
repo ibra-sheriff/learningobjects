@@ -1,0 +1,9 @@
+Transaction t1 = new Transaction(Transaction.ADDING, 50);
+Transaction t2 = new Transaction(Transaction.ADDING, 100)
+Transaction t3 = new Transaction(Transaction.ADDING, 120)
+Transaction t4 = new Transaction(Transaction.DEDUCTING, 40);
+Transaction t5 = new Transaction(Transaction.ADDING, 150);
+Transaction t4 = new Transaction(Transaction.DEDUCTING, 180);
+Transaction t4 = new Transaction(Transaction.DEDUCTING, 200);
+
+
